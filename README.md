@@ -7,7 +7,7 @@ Make sure [Docker](https://www.docker.com/) and [Docker Compose](https://docs.do
 1. Clone this repository into a directory. 
 2. Navigate into that directory. 
 3. Run `docker-compose up` to turn on the container. 
-4. If this is your first time using this environment, run `sh setup.sh` (outside the running container -- no need to enter it). This will do the following things to get set up:
+4. If this is your first time using this environment, run `sh setup.sh` (outside the running container -- no need to enter it). (winpty bash setup.sh in GIT BASH for Windows 10) This will do the following things to get set up:
 * Download & install WordPress.
 * Enable WP debugging.
 * Remove default posts, comments, and terms. 

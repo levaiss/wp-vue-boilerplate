@@ -1,9 +1,8 @@
-content/plugins/*
-content/themes/*
-content/uploads/*
 wordpress/*
 data/*
 
 composer.lock
 debug.log
 vendor
+
+.idea
